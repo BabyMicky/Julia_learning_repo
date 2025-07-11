@@ -1,4 +1,4 @@
-# Julia_learning_repo
+# Julia learning repo
 My repo where I learn the Julia language.
 
 ## Defining functions
